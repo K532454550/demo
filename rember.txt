@@ -1,1 +1,13 @@
-TTT
+Ignored 				忽略
+cycle					周期
+collaborators			合作者
+conflicts				冲突
+rebase					等闲
+wiki					维基
+issues					问题
+branch					分公司
+behind					在后面
+ahead					未来
+collapse				折叠
+Expand					扩大
+sync					同步

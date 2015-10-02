@@ -12,6 +12,9 @@ public class Hello {
         for (int i  =0 ;i<10 ;i++ ) {
         	System.out.print("i="+i);
         }
+        for (int ii  =0 ;ii<10 ;ii++ ) {
+            System.out.print("ii="+ii);
+        }
 
     }
 

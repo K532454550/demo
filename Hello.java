@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("hello");
         System.out.print("zzz");
         System.out.print("add 2");
+        System.out.print("add 3");
 
     }
 

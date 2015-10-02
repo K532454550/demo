@@ -7,8 +7,8 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.print("zzz");
-        System.out.print("add 2");
-        System.out.print("add 3");
+        System.out.print("add 2_1");
+        System.out.print("add 3_1");
 
     }
 
